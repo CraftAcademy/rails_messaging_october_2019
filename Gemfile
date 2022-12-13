@@ -31,7 +31,7 @@ group :development do
   gem 'web-console', '~> 2.0'
 end
 
-gem 'loofah', '~> 2.2.1'
+gem 'loofah', '~> 2.19.1'
 gem 'rails-html-sanitizer', '~> 1.0.4'
 gem 'sprockets', '~> 3.7.2'
 
